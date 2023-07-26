@@ -1,0 +1,20 @@
+{
+    "name": "codearachnid/html2md",
+    "description": "HTML2MD plugin",
+    "type": "library",
+    "require": {
+        "league/html-to-markdown": "^5.1"
+    },
+    "license": "gpl3",
+    "autoload": {
+        "psr-4": {
+            "Codearachnid\\Html2md\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Timothy Wood",
+            "email": "codearachnid@gmail.com"
+        }
+    ]
+}
